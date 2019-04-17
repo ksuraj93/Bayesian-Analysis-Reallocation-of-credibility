@@ -16,4 +16,7 @@ There is no reason out of those in the list:
 
 ![alt text](https://github.com/ksuraj93/Bayesian-Statistics-using-R/blob/master/2.jpg "Logo Title Text 1")
 
-we will look at how bayesian analysis is applied to a situation and the cause of the probelem is identified in this project.
+This [project](https://github.com/ksuraj93/Bayesian-Statistics-using-R/blob/master/bayersian_stats.pdf) will look at how bayesian analysis is applied to a situation and the cause of the probelem is identified.
+
+Essential files:
+1. [Rroject Report](https://github.com/ksuraj93/Bayesian-Statistics-using-R/blob/master/bayersian_stats.pdf) - Contains the case study.
