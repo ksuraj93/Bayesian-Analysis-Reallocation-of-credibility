@@ -20,3 +20,8 @@ This [project](https://github.com/ksuraj93/Bayesian-Statistics-using-R/blob/mast
 
 Essential files:
 1. [Project Report](https://github.com/ksuraj93/Bayesian-Statistics-using-R/blob/master/bayersian_stats.pdf) - Contains the case study.
+
+## CONTACT :
+#### SURAJ KANNAN - DATA SCIENTIST
+#### EMAIL : mahi.suraj93@gmail.com
+#### WEBSITE & E-PORTFOLIO : [click me](http://www.surajkannan.com/)
